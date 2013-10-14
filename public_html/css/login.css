@@ -6,6 +6,11 @@
         Purpose of the stylesheet follows.
 */
 
+body{
+    background-image: url('img/FondoGeneralDef.png');
+    background-color: #cccccc;
+}
+
 root { 
     display: block;
 }

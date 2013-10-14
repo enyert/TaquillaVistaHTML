@@ -19,8 +19,11 @@ textarea {
 }
 
 body {
+    background-color: #cccccc;
+    background-image: url('http://localhost:8383/TaquillaVista/img/FondoGeneralDef.png');
     font-size: 1em;
     line-height: 1.4;
+    width: 100%;
 }
 
 /*
