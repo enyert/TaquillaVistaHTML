@@ -228,6 +228,22 @@ textarea {
     /* Style adjustments for high resolution devices */
 }
 
+/* 980px */
+@media screen and (max-width: 980px){
+    #pagewrap {
+       width : 100;
+    }
+    
+    #content{
+        width : 65%;
+    }
+    
+    #sidebar {
+        width : 35%
+    }
+    
+}
+
 /* ==========================================================================
    Print styles.
    Inlined to avoid required HTTP connection: h5bp.com/r
